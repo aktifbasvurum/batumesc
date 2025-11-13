@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://petnest-market.emergent.host/</loc>
+        <lastmod>2025-11-13</lastmod>  <!-- Bugünün tarihi -->
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <!-- Eğer başka sayfaların varsa, buraya ekle: <loc>https://domainin.com/diger-sayfa</loc> -->
+</urlset>

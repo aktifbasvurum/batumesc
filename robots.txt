@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://petnest-market.emergent.host/sitemap.xml  # Eğer sitemap varsa, buraya yaz
